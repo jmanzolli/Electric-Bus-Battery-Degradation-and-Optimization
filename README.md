@@ -2,7 +2,7 @@
 
 This repository contains files associated with the management of electric bus batteries, addressing various aspects related to data assessment, degradation optimization, and energy retrieval. Each file serves a distinct purpose in achieving the main objective. Below is an overview of the key files:
 
-## 1. `clean_data_assessment`
+## 1. `clean_data_assessment` 🧹
 
 ### Purpose:
 This file is dedicated to the initial data cleaning and assessment phase. It focuses on preparing the data required for subsequent stages in the electric bus battery management process.
@@ -12,7 +12,7 @@ This file is dedicated to the initial data cleaning and assessment phase. It foc
 - Initial assessment of data quality.
 - Preparing the dataset for degradation optimization and energy retrieval.
 
-## 2. `EB-opt_degradation`
+## 2. `EB-opt_degradation` ⚙️
 
 ### Purpose:
 The `EB-opt_degradation` file is integral to the degradation optimization process. It addresses challenges related to battery lifespan, capital expenditure, and operational efficiency.
@@ -22,7 +22,7 @@ The `EB-opt_degradation` file is integral to the degradation optimization proces
 - Implementation of strategies to extend battery lifespan.
 - Utilization of degradation models and optimization frameworks.
 
-## 3. `energy_retrieval`
+## 3. `energy_retrieval` 🔋
 
 ### Purpose:
 This file focuses on the retrieval of energy from electric bus batteries, exploring opportunities such as Vehicle-to-Grid (V2G) technology.
@@ -32,7 +32,7 @@ This file focuses on the retrieval of energy from electric bus batteries, explor
 - Integration of electric buses with the grid through V2G technology.
 - Optimization of energy retrieval processes for grid resilience and additional revenue streams.
 
-## 4. `semiempiric_results`
+## 4. `semiempiric_results` 📊
 
 ### Purpose:
 The `semiempiric_results` file is dedicated to the presentation and analysis of results obtained through the semi-empirical degradation model.
@@ -56,4 +56,4 @@ The `semiempiric_results` file is dedicated to the presentation and analysis of 
 4. **Results Analysis:**
    - Refer to `semiempiric_results` for a detailed analysis of results obtained through the semi-empirical degradation model.
 
-Feel free to explore each file for more specific instructions and details on their respective functionalities. This repository aims to provide a comprehensive solution for managing electric bus batteries, addressing key challenges and optimizing operational efficiency. 
+Feel free to explore each file for more specific instructions and details on their respective functionalities. This repository aims to provide a comprehensive solution for managing electric bus batteries, addressing key challenges and optimizing operational efficiency.
